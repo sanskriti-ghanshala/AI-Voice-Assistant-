@@ -50,7 +50,7 @@ Ana is a Python-based AI Voice Assistant that performs voice-controlled tasks su
 ```
 Ana-AI-Voice-Assistant/
 │
-├── voice_assistant.py
+├── main.py
 ├── README.md
 └── requirements.txt
 ```
@@ -83,13 +83,13 @@ pip install -r requirements.txt
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Ana-AI-Voice-Assistant.git
+git clone https://github.com/your-username/AI-Voice-Assistant.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd Ana-AI-Voice-Assistant
+cd AI-Voice-Assistant
 ```
 
 3. Add your Gemini API Key.
@@ -97,7 +97,7 @@ cd Ana-AI-Voice-Assistant
 4. Run the program
 
 ```bash
-python voice_assistant.py
+python main.py
 ```
 
 ---
